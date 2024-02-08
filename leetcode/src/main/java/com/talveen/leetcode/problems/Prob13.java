@@ -1,4 +1,4 @@
-package com.talveen.leetcode;
+package com.talveen.leetcode.problems;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -14,10 +14,15 @@ import java.util.Map;
  * L             50
  * C             100
  * D             500
- * M
+ * M             1000
+ */
+public class Prob13 {
+    public static void main(String[] args) {
         Prob13 prob13 = new Prob13();
         String s = "MCMXCIV";
         System.out.println(prob13.romanToInt(s));
+        int[][] arr ={{1,2}, {3,4}};
+        System.out.println(arr.length);
 
 
     }

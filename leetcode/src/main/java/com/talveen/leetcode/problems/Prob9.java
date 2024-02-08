@@ -1,8 +1,4 @@
-package com.talveen.leetcode;
-
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
+package com.talveen.leetcode.problems;
 
 /**
  * Date: 2/4/2024

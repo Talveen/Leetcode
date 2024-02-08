@@ -1,4 +1,4 @@
-package com.talveen.leetcode;
+package com.talveen.leetcode.problems;
 
 import java.util.Arrays;
 import java.util.HashMap;
